@@ -1,0 +1,12 @@
+D:\SoftUni\DevOps-for-Developers\Exam\Contacts\Contacts.Data\bin\Debug\net6.0\Contacts.Data.deps.json
+D:\SoftUni\DevOps-for-Developers\Exam\Contacts\Contacts.Data\bin\Debug\net6.0\Contacts.Data.dll
+D:\SoftUni\DevOps-for-Developers\Exam\Contacts\Contacts.Data\bin\Debug\net6.0\Contacts.Data.pdb
+D:\SoftUni\DevOps-for-Developers\Exam\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.csproj.AssemblyReference.cache
+D:\SoftUni\DevOps-for-Developers\Exam\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\DevOps-for-Developers\Exam\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.AssemblyInfoInputs.cache
+D:\SoftUni\DevOps-for-Developers\Exam\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.AssemblyInfo.cs
+D:\SoftUni\DevOps-for-Developers\Exam\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\DevOps-for-Developers\Exam\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.dll
+D:\SoftUni\DevOps-for-Developers\Exam\Contacts\Contacts.Data\obj\Debug\net6.0\refint\Contacts.Data.dll
+D:\SoftUni\DevOps-for-Developers\Exam\Contacts\Contacts.Data\obj\Debug\net6.0\Contacts.Data.pdb
+D:\SoftUni\DevOps-for-Developers\Exam\Contacts\Contacts.Data\obj\Debug\net6.0\ref\Contacts.Data.dll
